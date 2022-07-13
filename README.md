@@ -1,5 +1,6 @@
 # Minha Biografia
 
+![](joao.jpg)
 > Ola meu nome é **João Marcos Marmontelo** e estou na reta final do curso de Sistemas de Informação pela Universidade Federal de Lavras. Estou no mundo da tecnologia desde meus 15 anos quando tive que resolver problemas no meu computador, depois disso nunca mais parei, a cada problema que consigo resolver me sinto mais engajado nesta área.
 
 ### Busco aprendizado nas seguintes áreas:
